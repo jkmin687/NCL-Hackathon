@@ -22,4 +22,4 @@ My first competition, the NCL Hackathon, was a pivotal point in my learning jour
 
 <a href="file:///C:/Users/Justin/Downloads/Justin%20Min%20-%20Cyber%20Skyline%20Certificate.pdf">NCL Certificate</a>
 
-<a href="file:///C:/Users/Justin/Downloads/Justin%20Min%20-%20Cyber%20Skyline%20Report.pdf">NCL Scorecard</a>
+<a href="https://github.com/jkmin687/NCL-Hackathon/blob/main/Justin%20Min%20-%20Cyber%20Skyline%20Report.pdf">NCL Scorecard</a>
