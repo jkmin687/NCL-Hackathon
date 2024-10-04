@@ -2,13 +2,13 @@
 
 ## Objective
 
-The NCL Hackathon competition is designed for beginners to test their abilities across various cybersecurity categories. Password cracking, web application exploitation, forensics, and open-source intelligence are examples of fields in which players could earn points. This competition provides participants with hands-on experience, demonstrating how these types of problems are solved in the real world.
+The NCL Hackathon competition is designed for beginners to test their abilities across various cybersecurity categories. Web application exploitation, forensics, and open-source intelligence are examples of fields in which players could earn points. This competition provides participants with hands-on experience, demonstrating how these types of problems are solved in the real world.
 
 ### Skills Learned
 
 - Heightened usage of web browsers and finding information through open source
 - Extracted plaintext from encrypted and obfuscated messages
-- Identifying different types of password hashing
+- Critical thinking skills and researching techniques
 
 ### Tools Used
 
